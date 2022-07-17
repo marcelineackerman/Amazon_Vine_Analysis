@@ -44,3 +44,9 @@ After filtering down the data to only reviews with >20 votes, where 50% or more 
  With paid 5-star reviews and unpaid 5-star reviews both rounding up to ~57%, there does not seem to be a positivity bias for Vine reviews in the Musical Instruments product category on Amazon.
  
  To further support this conclusion, we could also perform a comparison of the average review score of Vine reviews against the average review score of unpaid reviews. If these averages match, that supports that there is no bias in the paid reviewer category.
+ 
+ ## Tools Used
+ 
+  - `Google Colab`
+  - `Python 3.9.7`
+  - `Spark 3.0.3`
